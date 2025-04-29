@@ -14,20 +14,15 @@ To write a Python program to check whether the given number is **even** or **odd
 ## 🧾 Program
 ```
 a=int(input())
-if a%2==0:
+if(a%2==0):
     print("EVEN")
 else:
     print("ODD")
 ```
-```
-Name: Vishnu Rathan B
-Reg No:212224240185
-```
+
 ## Output
-
-![Screenshot 2025-04-29 110653](https://github.com/user-attachments/assets/3dea2189-eca5-4167-aa36-accaed6d9167)
-
+![image](https://github.com/user-attachments/assets/a7e9b92e-ae59-4ecc-a0ac-90f1424593ab)
 
 
 ## Result
-Thus Output is Verified
+thus the python progrom is executed successfully
